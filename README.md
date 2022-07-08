@@ -1,7 +1,7 @@
-### Hi 
+### Oii, meu nome é Rebeka!
 
-### 🌱 I’m currently learning ... <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-### 😄 Pronouns: ... Ela/Dela
+###:mortar_board: Sou estudante de Ánalise e Desenvolvimwnto de Sistemas.
+### 🌱 Estou estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 ### Contatos
 <div>
 <a href="https://www.linkedin.com/in/rebeka-cardoso-sena-51189172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
