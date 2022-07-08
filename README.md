@@ -1,6 +1,6 @@
 ### Oii, meu nome é Rebeka!
 
-###:mortar_board: Sou estudante de Ánalise e Desenvolvimwnto de Sistemas.
+### 🎓 Sou estudante de Ánalise e Desenvolvimwnto de Sistemas.
 ### 🌱 Estou estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 ### Contatos
 <div>
