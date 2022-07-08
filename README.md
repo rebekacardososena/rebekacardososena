@@ -1,6 +1,5 @@
 ### Oii, meu nome é Rebeka Sena 🌻
-
-### 🎓 Sou estudante de Ánalise e Desenvolvimwnto de Sistemas.
+### 🎓 Sou estudante de Ánalise e Desenvolvimento de Sistemas.
 ### 🌱 Estou estudando atualmente <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 ### Contatos
 <div>
