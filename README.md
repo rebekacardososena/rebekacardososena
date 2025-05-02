@@ -9,7 +9,7 @@
 <p align="left"> 
   Olá 💜! Meu nome é <strong>Rebeka Sena</strong>.<br>
   Atualmente estou estudando <strong>automação de teste com Selenium</strong>.<br>
-  Sou apaixonada por qualidade de software e por gatinhos!<br>
+  Sou apaixonada por tecnologia e por gatinhos!<br>
 </p>
 
 <p align="left">
